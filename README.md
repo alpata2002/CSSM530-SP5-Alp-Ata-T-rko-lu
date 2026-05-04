@@ -1,6 +1,6 @@
 # CSSM530-SP5-Alp-Ata-T-rko-lu
 
-The final notebook used for this paper is CSSM530_Detection_&_Linking_LABELED_EVENTS_TITLE_AWARE (1).ipynb. The main output files include detection_cv_fold_metrics.xlsx, detection_summary.xlsx, detection_eval_by_source.xlsx, linking_evaluation_comparison.xlsx, baseline_linking_threshold_sensitivity.xlsx, cluster_diagnostics.xlsx, FINAL_all_articles_with_predictions_and_clusters.xlsx, and llm_event_extractions.xlsx. 
+The final notebook used for this paper is "CSSM530_Detection_&_Linking_LABELED_EVENTS_TITLE_AWARE (1).ipynb", which can be found together with the scraping notebooks "Evrensel Scrape_FIN (3).ipynb" and "sendika_kizilbayrak_scrape_notebook (2).ipynb" under the file "CSSM530 Notebooks.rar". The main output files include "detection_cv_fold_metrics.xlsx", "detection_summary.xlsx", "detection_eval_by_source.xlsx", "linking_evaluation_comparison.xlsx", "baseline_linking_threshold_sensitivity.xlsx", "cluster_diagnostics.xlsx", "FINAL_all_articles_with_predictions_and_clusters.xlsx" and "llm_event_extractions.xlsx" as well as may other secondary output files, which can all be found under the file "CSSM530 Outputs.rar". 
 
 The prompt for the event extraction stage is as follows:
 input=[
